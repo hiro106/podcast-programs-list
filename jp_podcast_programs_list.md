@@ -1,8 +1,13 @@
-blob
+いっぱいある。あとで書く。たとえば下記など。
 
 Wisdom Square
-あたらしい経済
-オールスターSaaS
+
 LayerX Now
+
 ゼロトピック
+
 Free Agenda
+
+あたらしい経済
+
+オールスターSaaS
