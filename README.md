@@ -6,6 +6,7 @@
 #### Lex Fridman Podcast (EN)
 #### TED Talks Daily (EN)
 #### The Daily (EN)
+#### Rebuild (JP)
 #### みんなの才能研究所（みんラボ） (JP)
 
 ## 一般ニュース系 / News
@@ -47,6 +48,7 @@
 ## スタートアップ全般系 / Startups
 #### Free Agenda (JP)
 #### LayerX Now (JP)
+#### Off Topic (JP)
 #### ゼロトピック (JP)
 #### Pivot (EN)
 #### TWiST (This Week in Startups) (EN)
@@ -54,8 +56,8 @@
 #### TechCrunch Equity (EN)
 
 ## スタートアップ SaaS系 / startup SaaS
-#### オールスターSaaS (JP)
-#### SaaStr Podcast
+#### All Star SaaS Podcast (JP)
+#### SaaStr Podcast (EN)
 
 ## クリプト系 / Crypto
 #### Cryptic (JP)
