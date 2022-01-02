@@ -2,7 +2,7 @@
 
 あとでリンクとかも貼る予定
 
-## 全般系
+## 全般系 / General
 #### Lex Fridman Podcast (EN)
 #### TED Talks Daily (EN)
 #### The Daily (EN)
@@ -34,11 +34,11 @@
 #### regonn&curry.fm (JP)
 #### Data Engineering Podcast (EN)
 
-## サイエンス系
+## サイエンス系 / Science
 #### 研エンの仲 (JP)
 #### Nature Podcast (EN)
 
-## デザイン系
+## デザイン系 / Design
 #### TAKRAM RADIO (JP)
 #### resize.fm (JP)
 
