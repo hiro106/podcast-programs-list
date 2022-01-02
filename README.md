@@ -7,9 +7,14 @@
 #### TED Talks Daily (EN)
 #### みんなの才能研究所（みんラボ） (JP)
 
-## ニュース系 / News
+## 一般ニュース系 / News
+#### English News - NHK WORLD RADIO JAPAN (EN)
 #### BBC Global News Podcast (EN)
+
+## 経済ニュース系 / Economic News
+#### Morgan Stanley Thought on the Market (EN)
 #### Bloomberg Intellijence (EN)
+#### Bloomberg Surveillance (EN)
 #### TechCrunch Industry News (EN)
 #### 町田徹の経済ニュースふかぼり！ (JP)
 
@@ -25,11 +30,11 @@
 #### TWIML (This Week in Machine Learning) (EN)
 
 ## サイエンス系
-#### 研エンの仲
+#### 研エンの仲 (JP)
 
 ## デザイン系
-#### TAKRAM RADIO
-#### resize.fm
+#### TAKRAM RADIO (JP)
+#### resize.fm (JP)
 
 
 ## Web開発系 / Web development
