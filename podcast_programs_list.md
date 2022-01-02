@@ -3,24 +3,24 @@
 あとでリンクとかも貼る予定
 
 ## 英語学習系
-#### 1日5分 ビジネス英語
-#### バイリンガルニュース
+#### 1日5分 ビジネス英語 (EN, JP)
+#### バイリンガルニュース (EN, JP)
 
 ## 歴史系
-#### コテンラジオ
-#### ラジレキ
+#### コテンラジオ (JP)
+#### ラジレキ (JP)
 
 ## Web開発系
-#### Software Engineering Daily 
+#### Software Engineering Daily (EN)
 
 ## スタートアップ系
-#### LayerX Now
-#### オールスターSaaS
-#### ゼロトピック
-#### Free Agenda
-#### TechCrunch系 色々
+#### LayerX Now (JP)
+#### オールスターSaaS (JP)
+#### ゼロトピック (JP)
+#### Free Agenda (JP)
+#### TechCrunch系 色々 (EN)
 
 ## ブロックチェーン系
-#### あたらしい経済
-#### Cryptic
-#### Epicenter
+#### あたらしい経済 (JP)
+#### Cryptic (JP)
+#### Epicenter (EN)
