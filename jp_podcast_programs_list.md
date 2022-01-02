@@ -10,11 +10,15 @@
 #### コテンラジオ
 #### ラジレキ
 
+### Web開発系
+#### Software Engineering Daily 
+
 ### スタートアップ系
 #### LayerX Now
 #### オールスターSaaS
 #### ゼロトピック
 #### Free Agenda
+#### TechCrunch系 色々
 
 ### ブロックチェーン系
 #### あたらしい経済
