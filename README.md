@@ -5,6 +5,7 @@
 ## 全般系
 #### Lex Fridman Podcast (EN)
 #### TED Talks Daily (EN)
+#### The Daily (EN)
 #### みんなの才能研究所（みんラボ） (JP)
 
 ## 一般ニュース系 / News
@@ -25,30 +26,36 @@
 ## 歴史系 / History
 #### コテンラジオ (JP)
 #### ラジレキ ～ラジオ歴史小話～ (JP)
+#### American History Tellers (EN)
 
-## 人工知能/機械学習系 / AI/Machine Learning
+## データサイエンス系（含む 人工知能/機械学習） / Data Science (Incl. AI/Machine Learning)
 #### TWIML (This Week in Machine Learning) (EN)
+#### regonn&curry.fm
+#### Data Engineering Podcast (EN)
 
 ## サイエンス系
 #### 研エンの仲 (JP)
+#### Nature Podcast (EN)
 
 ## デザイン系
 #### TAKRAM RADIO (JP)
 #### resize.fm (JP)
 
-
 ## Web開発系 / Web development
 #### Software Engineering Daily (EN)
 
-## スタートアップ系 / Startups
+## スタートアップ全般系 / Startups
 #### Free Agenda (JP)
 #### LayerX Now (JP)
-#### オールスターSaaS (JP)
 #### ゼロトピック (JP)
 #### Pivot (EN)
 #### TWiST (This Week in Startups) (EN)
 #### TechCrunch Startup News (EN)
 #### TechCrunch Equity (EN)
+
+## スタートアップ SaaS系 / startup SaaS
+#### オールスターSaaS (JP)
+#### SaaStr Podcast
 
 ## クリプト系 / Crypto
 #### Cryptic (JP)
@@ -59,3 +66,8 @@
 #### Joeの投資家養成チャンネル (EN) 
 #### Markets Daily Crypto Roundup (EN)
 #### Bankless (EN)
+#### Zero Knowledge (EN)
+
+## ビジネス全般系 / Economic News
+#### Business Wars (EN) 
+#### ビジネス・ウォーズ (JP) 
