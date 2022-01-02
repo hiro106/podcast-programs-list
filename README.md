@@ -31,7 +31,7 @@
 
 ## データサイエンス系（含む 人工知能/機械学習） / Data Science (Incl. AI/Machine Learning)
 #### TWIML (This Week in Machine Learning) (EN)
-#### regonn&curry.fm
+#### regonn&curry.fm (JP)
 #### Data Engineering Podcast (EN)
 
 ## サイエンス系
