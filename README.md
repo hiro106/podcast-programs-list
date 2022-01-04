@@ -61,6 +61,7 @@
 
 ## クリプト系 / Crypto
 #### Cryptic (JP)
+#### Bankless (EN)
 #### 木下慶彦のStartup Podcast (JP)
 #### あたらしい経済 (JP)
 #### Epicenter (EN)
