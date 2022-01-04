@@ -68,7 +68,6 @@
 #### Unchainded (EN)
 #### Joeの投資家養成チャンネル (EN) 
 #### Markets Daily Crypto Roundup (EN)
-#### Bankless (EN)
 #### Zero Knowledge (EN)
 
 ## ビジネス全般系 / Economic News
