@@ -71,7 +71,7 @@
 ## メタヴァース系 / Metaverse
 ### The Metaverse Podcast (EN)
 #### OutlierVentures
-Detail(from official page): A new web is emerging that goes well beyond just Bitcoin, Ethereum, and money, but promises an entirely new computing paradigm, and data economy. The Metaverse Podcast is a series hosted by Outlier Ventures Founder & CEO Jamie Burke where he introduces you to the founders, entrepreneurs, investors, and the policymakers that are shaping Web 3, the Open Metaverse, and the future of digital interaction.
+Detail(from official page):  A new web is emerging that goes well beyond just Bitcoin, Ethereum, and money, but promises an entirely new computing paradigm, and data economy. The Metaverse Podcast is a series hosted by Outlier Ventures Founder & CEO Jamie Burke where he introduces you to the founders, entrepreneurs, investors, and the policymakers that are shaping Web 3, the Open Metaverse, and the future of digital interaction.
 
 https://open.spotify.com/show/1gJqBY4PBMo05ORUQbpHSU
 
