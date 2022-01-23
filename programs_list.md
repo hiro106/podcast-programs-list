@@ -1,6 +1,7 @@
 あとでリンクとかも貼る予定
 
 ## 全般系 / General
+#### Free Agenda (JP)
 #### Lex Fridman Podcast (EN)
 #### TED Talks Daily (EN)
 #### The Daily (EN)
@@ -44,6 +45,8 @@
 #### Software Engineering Daily (EN)
 
 ## スタートアップ全般系 / Startups
+#### START/FM (JP)
+#### This is 令和スタートアップ (JP)
 #### Free Agenda (JP)
 #### LayerX Now (JP)
 #### Off Topic (JP)
