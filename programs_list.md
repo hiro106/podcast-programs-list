@@ -29,9 +29,13 @@
 #### American History Tellers (EN)
 
 ## データサイエンス系（含む 人工知能/機械学習） / Data Science (Incl. AI/Machine Learning)
+#### hikifune.fm (JP)
+#### Work In Progress (JP)
 #### TWIML (This Week in Machine Learning) (EN)
 #### regonn&curry.fm (JP)
 #### Data Engineering Podcast (EN)
+#### シバタアキラのcafeでAIたい。 (JP)
+#### The MLOps Podcast (EN)
 
 ## サイエンス系 / Science
 #### 研エンの仲 (JP)
