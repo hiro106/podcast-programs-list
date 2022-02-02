@@ -45,8 +45,14 @@
 #### TAKRAM RADIO (JP)
 #### resize.fm (JP)
 
-## Web開発系 / Web development
-#### Software Daily (EN)
+## Web開発・コンピューターサイエンス系 / Web development, Computer Science
+#### Misreading Chat (JP)
+#### fukabori.fm (JP)
+#### texta.fm (JP)
+#### Wantedly Engineering (JP)
+#### React Podcast (EN)
+#### AWS Podcast (EN)
+#### Software Engineering Daily (EN)
 
 ## スタートアップ全般系 / Startups
 #### START/FM (JP)
