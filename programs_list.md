@@ -46,7 +46,7 @@
 #### resize.fm (JP)
 
 ## Web開発系 / Web development
-#### Software Engineering Daily (EN)
+#### Software Daily (EN)
 
 ## スタートアップ全般系 / Startups
 #### START/FM (JP)
