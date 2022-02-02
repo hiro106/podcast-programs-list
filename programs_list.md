@@ -48,8 +48,10 @@
 ## Web開発・コンピューターサイエンス系 / Web development, Computer Science
 #### Misreading Chat (JP)
 #### fukabori.fm (JP)
+#### UIT Inside (JP)
 #### texta.fm (JP)
 #### Wantedly Engineering (JP)
+#### サブスクライバ (JP)
 #### React Podcast (EN)
 #### AWS Podcast (EN)
 #### Software Engineering Daily (EN)
