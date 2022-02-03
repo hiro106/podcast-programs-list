@@ -6,6 +6,7 @@
 #### TED Talks Daily (EN)
 #### The Daily (EN)
 #### Rebuild (JP)
+#### JOI ITO 変革への道 (JP)
 #### みんなの才能研究所（みんラボ） (JP)
 
 ## 一般ニュース系 / News
@@ -16,6 +17,7 @@
 #### Morgan Stanley Thought on the Market (EN)
 #### Bloomberg Intellijence (EN)
 #### Bloomberg Surveillance (EN)
+#### Exchanges at Goldman Sachs (EN)
 #### TechCrunch Industry News (EN)
 #### 町田徹の経済ニュースふかぼり！ (JP)
 
@@ -25,6 +27,8 @@
 
 ## 歴史系 / History
 #### コテンラジオ (JP)
+#### Dan Carlin's Hardcore History (EN)
+#### Dan Carlin's Hardcore History: Addendum (EN)
 #### ラジレキ ～ラジオ歴史小話～ (JP)
 #### American History Tellers (EN)
 
@@ -35,6 +39,7 @@
 #### regonn&curry.fm (JP)
 #### Data Engineering Podcast (EN)
 #### シバタアキラのcafeでAIたい。 (JP)
+#### Machine Learning Street Talk (EN)
 #### The MLOps Podcast (EN)
 
 ## サイエンス系 / Science
