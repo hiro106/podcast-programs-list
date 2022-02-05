@@ -20,6 +20,7 @@
 #### Exchanges at Goldman Sachs (EN)
 #### TechCrunch Industry News (EN)
 #### 町田徹の経済ニュースふかぼり！ (JP)
+#### Equity (TechCrunch) (EN)
 
 ## 英語学習系 / Learning English
 #### 1日5分 ビジネス英語 (EN, JP)
@@ -41,6 +42,7 @@
 #### シバタアキラのcafeでAIたい。 (JP)
 #### Machine Learning Street Talk (EN)
 #### The MLOps Podcast (EN)
+#### Data Brew by Databricks (EN)
 
 ## サイエンス系 / Science
 #### 研エンの仲 (JP)
@@ -61,6 +63,7 @@
 #### AWS Podcast (EN)
 #### Software Engineering Daily (EN)
 #### Yokohama North AM (JP)
+#### note Tech Talk (JP)
 
 ## スタートアップ全般系 / Startups
 #### START/FM (JP)
@@ -73,6 +76,10 @@
 #### TWiST (This Week in Startups) (EN)
 #### TechCrunch Startup News (EN)
 #### TechCrunch Equity (EN)
+#### スタートアップ オフレコ対談 // XTech Ventures (JP)
+#### Found (EN)
+#### Founder Real Talk (EN)
+#### FoundX スタートアップ Podcast (JP)
 
 ## スタートアップ SaaS系 / startup SaaS
 #### All Star SaaS Podcast (JP)
@@ -86,8 +93,10 @@
 #### Epicenter (EN)
 #### Unchainded (EN)
 #### Joeの投資家養成チャンネル (EN)
+#### Asia DeFi Network (prev. Web3Native) (EN)
 #### Markets Daily Crypto Roundup (EN)
 #### Zero Knowledge (EN)
+#### 800億円の投資家による聴き流し勉強（Cryptact）(JP)
 
 ## メタヴァース系 / Metaverse
 ### The Metaverse Podcast (EN)
@@ -99,4 +108,5 @@ https://open.spotify.com/show/1gJqBY4PBMo05ORUQbpHSU
 ## ビジネス全般系 / Economic News
 #### Business Wars (EN)
 #### ビジネス・ウォーズ (JP)
+#### The McKinsey Podcast (EN)
 
