@@ -81,6 +81,7 @@
 #### Founder Real Talk (EN)
 #### FoundX スタートアップ Podcast (JP)
 #### ログラスpodcast (JP)
+#### 木下慶彦のStartup Podcast (JP)
 
 ## スタートアップ SaaS系 / startup SaaS
 #### All Star SaaS Podcast (JP)
