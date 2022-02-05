@@ -60,6 +60,7 @@
 #### React Podcast (EN)
 #### AWS Podcast (EN)
 #### Software Engineering Daily (EN)
+#### Yokohama North AM (JP)
 
 ## スタートアップ全般系 / Startups
 #### START/FM (JP)
