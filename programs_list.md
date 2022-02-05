@@ -99,7 +99,11 @@
 #### 800億円の投資家による聴き流し勉強（Cryptact）(JP)
 
 ## メタヴァース系 / Metaverse
+#### VR/AR/メタバースの「イマ」がわかる もぐラジオ (JP)
 #### The Metaverse Podcast (EN)
+
+## ライフハック・効率化系 / Life Hacks, Efficiency
+#### Getting Things Done (EN)
 
 ## ビジネス全般系 / Economic News
 #### Business Wars (EN)
