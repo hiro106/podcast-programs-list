@@ -80,6 +80,7 @@
 #### Found (EN)
 #### Founder Real Talk (EN)
 #### FoundX スタートアップ Podcast (JP)
+#### ログラスpodcast (JP)
 
 ## スタートアップ SaaS系 / startup SaaS
 #### All Star SaaS Podcast (JP)
