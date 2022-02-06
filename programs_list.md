@@ -99,6 +99,7 @@
 #### Markets Daily Crypto Roundup (EN)
 #### Zero Knowledge (EN)
 #### 800億円の投資家による聴き流し勉強（Cryptact）(JP)
+#### web3FM (JP)
 
 ## メタヴァース系 / Metaverse
 #### VR/AR/メタバースの「イマ」がわかる もぐラジオ (JP)
