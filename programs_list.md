@@ -67,6 +67,7 @@
 #### note Tech Talk (JP)
 #### Meet UB Tech (JP)
 #### SteppFunction | MIT留学中のエンジニアのキャリア展望 (JP)
+#### dely Tech Talk (JP)
 
 ## スタートアップ全般系 / Startups
 #### START/FM (JP)
