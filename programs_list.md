@@ -43,6 +43,7 @@
 #### Machine Learning Street Talk (EN)
 #### The MLOps Podcast (EN)
 #### Data Brew by Databricks (EN)
+#### Double-M2 (JP)
 
 ## サイエンス系 / Science
 #### 研エンの仲 (JP)
@@ -64,6 +65,8 @@
 #### Software Engineering Daily (EN)
 #### Yokohama North AM (JP)
 #### note Tech Talk (JP)
+#### Meet UB Tech (JP)
+#### SteppFunction | MIT留学中のエンジニアのキャリア展望 (JP)
 
 ## スタートアップ全般系 / Startups
 #### START/FM (JP)
