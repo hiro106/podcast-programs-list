@@ -86,6 +86,7 @@
 #### FoundX スタートアップ Podcast (JP)
 #### ログラスpodcast (JP)
 #### 木下慶彦のStartup Podcast (JP)
+#### 海外スタートアップラジオ (JP)
 
 ## スタートアップ SaaS系 / startup SaaS
 #### All Star SaaS Podcast (JP)
