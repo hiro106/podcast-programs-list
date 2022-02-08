@@ -6,12 +6,17 @@
 #### TED Talks Daily (EN)
 #### The Daily (EN)
 #### Rebuild (JP)
-#### JOI ITO 変革への道 (JP)
 #### みんなの才能研究所（みんラボ） (JP)
+#### Work in Tech! (JP)
 
 ## 一般ニュース系 / News
 #### English News - NHK WORLD RADIO JAPAN (EN)
 #### BBC Global News Podcast (EN)
+
+## ビジネス全般系 / Economic News
+#### Business Wars (EN)
+#### ビジネス・ウォーズ (JP)
+#### The McKinsey Podcast (EN)
 
 ## 経済ニュース系 / Economic News
 #### Morgan Stanley Thought on the Market (EN)
@@ -87,6 +92,7 @@
 #### ログラスpodcast (JP)
 #### 木下慶彦のStartup Podcast (JP)
 #### 海外スタートアップラジオ (JP)
+#### JOI ITO 変革への道 (JP)
 
 ## スタートアップ SaaS系 / startup SaaS
 #### All Star SaaS Podcast (JP)
@@ -113,8 +119,5 @@
 ## ライフハック・効率化系 / Life Hacks, Efficiency
 #### Getting Things Done (EN)
 
-## ビジネス全般系 / Economic News
-#### Business Wars (EN)
-#### ビジネス・ウォーズ (JP)
-#### The McKinsey Podcast (EN)
+
 
