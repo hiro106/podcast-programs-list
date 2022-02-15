@@ -13,6 +13,10 @@
 #### English News - NHK WORLD RADIO JAPAN (EN)
 #### BBC Global News Podcast (EN)
 
+## テック系ニュース / Tech News
+#### TechCrunch Daily Crunch  (EN)
+#### The Vergecast (EN)
+
 ## ビジネス全般系 / Economic News
 #### Business Wars (EN)
 #### ビジネス・ウォーズ (JP)
