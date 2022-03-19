@@ -79,6 +79,9 @@
 #### SteppFunction | MIT留学中のエンジニアのキャリア展望 (JP)
 #### dely Tech Talk (JP)
 
+## プロダクトマネジメント・プロジェクトマネジメント / PM（Product/Project Management）
+#### PMラジオ
+
 ## スタートアップ全般系 / Startups
 #### START/FM (JP)
 #### This is 令和スタートアップ (JP)
