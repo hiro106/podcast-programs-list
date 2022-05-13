@@ -1,4 +1,4 @@
-あとでリンクとかも貼る予定　/  I would also put links and so on later.
+リンクも順次張る予定　/  I would also put the links occasionally.
 
 ## 全般系（ただしテック寄りが多い） / General（But mainly tech-related）
 #### Free Agenda (JP)
