@@ -1,11 +1,12 @@
 あとでリンクとかも貼る予定　/  I would also put links and so on later.
 
-## 全般系 / General
+## 全般系（ただしテック寄りが多い） / General（But mainly tech-related）
 #### Free Agenda (JP)
 #### Lex Fridman Podcast (EN)
 #### TED Talks Daily (EN)
 #### The Daily (EN)
 #### Rebuild (JP)
+#### backspace.fm (JP)
 #### みんなの才能研究所（みんラボ） (JP)
 #### Work in Tech! (JP)
 
