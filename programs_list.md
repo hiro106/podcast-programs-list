@@ -65,7 +65,7 @@
 
 ## Web開発・コンピューターサイエンス系 / Web development, Computer Science
 #### Misreading Chat (JP)
-#### fukabori.fm (JP)
+#### [fukabori.fm (JP)](https://open.spotify.com/show/2gEI6bMbrBhXnpi6AVs8qp)
 #### UIT Inside (JP)
 #### texta.fm (JP)
 #### Wantedly Engineering (JP)
