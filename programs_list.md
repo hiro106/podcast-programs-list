@@ -1,8 +1,8 @@
 リンクも順次張る予定　/  I would also put the links occasionally.
 
 ## 全般系（ただしテック寄りが多い） / General（But mainly tech-related）
-#### Free Agenda (JP)
-#### Lex Fridman Podcast (EN)
+#### [Free Agenda (JP)](https://open.spotify.com/show/4PhA1zRUA72OHGPtyImz3Q)
+#### [Lex Fridman Podcast (EN)](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL)
 #### TED Talks Daily (EN)
 #### The Daily (EN)
 #### Rebuild (JP)
