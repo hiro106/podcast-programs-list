@@ -6,7 +6,7 @@
 #### TED Talks Daily (EN)
 #### The Daily (EN)
 #### Rebuild (JP)
-#### backspace.fm (JP)
+#### [backspace.fm (JP)](https://open.spotify.com/show/6STfl8XK3pk4hbaqTsi2sx)
 #### みんなの才能研究所（みんラボ） (JP)
 #### Work in Tech! (JP)
 
