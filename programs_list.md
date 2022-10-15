@@ -10,7 +10,7 @@
 #### みんなの才能研究所（みんラボ） (JP)
 #### Work in Tech! (JP)
 
-## 一般ニュース系 / News
+## 一般ニュース系 / General News
 #### English News - NHK WORLD RADIO JAPAN (EN)
 #### BBC Global News Podcast (EN)
 
@@ -63,7 +63,7 @@
 #### TAKRAM RADIO (JP)
 #### resize.fm (JP)
 
-## Web開発・コンピューターサイエンス系 / Web development, Computer Science
+## Web開発・コンピューターサイエンス系 / Web Development, Computer Science
 #### Misreading Chat (JP)
 #### [fukabori.fm (JP)](https://open.spotify.com/show/2gEI6bMbrBhXnpi6AVs8qp)
 #### UIT Inside (JP)
@@ -103,6 +103,7 @@
 #### 木下慶彦のStartup Podcast (JP)
 #### 海外スタートアップラジオ (JP)
 #### JOI ITO 変革への道 (JP)
+#### 朝倉祐介の「経営トーク」
 
 ## スタートアップ SaaS系 / startup SaaS
 #### All Star SaaS Podcast (JP)
