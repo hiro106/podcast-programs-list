@@ -55,7 +55,7 @@
 #### Data Brew by Databricks (EN)
 #### Double-M2 (JP)
 
-## サイエンス系 / Science
+## サイエンス系 / Natural Sciences
 #### 研エンの仲 (JP)
 #### Nature Podcast (EN)
 
@@ -109,7 +109,7 @@
 #### All Star SaaS Podcast (JP)
 #### SaaStr Podcast (EN)
 
-## クリプト系 / Crypto
+## Web3/ブロックチェーン/クリプト系 / Web3/Blockchain/Crypto
 #### Cryptic (JP)
 #### Bankless (EN)
 #### 木下慶彦のStartup Podcast (JP)
