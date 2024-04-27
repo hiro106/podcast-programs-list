@@ -79,6 +79,7 @@
 #### Meet UB Tech (JP)
 #### SteppFunction | MIT留学中のエンジニアのキャリア展望 (JP)
 #### dely Tech Talk (JP)
+#### リファクタリングとともに生きるラジオ
 
 ## プロダクトマネジメント・プロジェクトマネジメント / PM（Product/Project Management）
 #### PMラジオ
